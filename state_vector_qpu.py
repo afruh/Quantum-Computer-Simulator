@@ -1,6 +1,5 @@
-## Exercise 1
 import numpy as np
-from tools import Circuit, gate_dic
+from tools import gate_dic
 
 class State:
     def __init__(self, nqbits):
